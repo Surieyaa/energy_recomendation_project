@@ -4,14 +4,6 @@
 This project aims to predict electricity consumption using Machine Learning techniques based on historical and environmental data. The system analyzes patterns in energy usage and provides accurate predictions to help optimize energy consumption and reduce wastage.
 
 ---
-energy-ml-project/
-│
-├── app.py
-├── energy_model.pkl
-├── scaler.pkl
-├── features.pkl
-├── requirements.txt
-├── README.md
 
 ## 🚀 Features
 - 🔮 Predict energy consumption
